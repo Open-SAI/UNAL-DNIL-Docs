@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Directorio Convocatorias UNAL-DNIL'
+copyright = '2022, DToroT / UNAL-DNIL'
+author = 'David Toro Triana'
 
 release = '0.1'
 version = '0.1.0'

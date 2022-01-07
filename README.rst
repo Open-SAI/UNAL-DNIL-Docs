@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+Documentación Módulo Web Directorio de Convocatorias UNAL-DNIL 
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Este es el repositorio oficial de la documentación del proyecto 
+"Módulo Web Directorio de Convocatorias", iniciativa a cargo de la Dirección Nacional de Investigación y Laboratorios 
+de la Universidad Nacional de Colombia.
 
-Read the tutorial here:
+La documentación completa puede consultarse en:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://unal-dnil-docs.readthedocs.io
