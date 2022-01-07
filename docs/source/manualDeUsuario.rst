@@ -6,7 +6,8 @@ MANUAL DE USUARIO FINAL
 Directorio de Convocatorias
 ---------------------------
 
-Es la funcionalidad central del aplicativo, una vez instalado y configurado, se puede acceder a ella desde el enlace `CONVOCATORIAS <https://unal-dnil.herokuapp.com/><_blank>`_ de la `página oficial de investigaciones <https://investigacion.unal.edu.co/><_blank>`_:
+Es la funcionalidad central del aplicativo, una vez instalado y configurado, se puede acceder a ella desde el enlace `CONVOCATORIAS <https://unal-dnil.herokuapp.com/>`_ de la `página oficial de investigaciones <https://investigacion.unal.edu.co/>`_:
+
 
 .. image:: img/inicio.png
    :scale: 50 %   
