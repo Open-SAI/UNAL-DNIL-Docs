@@ -11,8 +11,7 @@ Contenidos
 ----------
 
 .. toctree::
-
-   usage
-   api
-   manualDeUsuario
-   arquitectura
+   
+   directorioConvocatorias
+   panelAdministrativo
+   
