@@ -5,7 +5,7 @@ La Universidad Nacional de Colombia, en su página web de investigación, cuenta
 
 La anterior situación promueve una baja tasa de respuesta, en la gestión de los recursos externos que deberían ser movilizados por la Universidad.
 
-En este contexto, la presente propuesta se orienta al mejoramiento del módulo de “Convocatorias Externas” de la `página oficial de investigaciones <https://investigacion.unal.edu.co/><_blank>`, para que se convierta en una herramienta de consulta formal y metódica permanente, de estudiantes, investigadores, docentes y todos los actores del SIUN, a través de la cual conozcan las oportunidades de financiación, complementaria a las herramientas que la Universidad tiene disponibles para la búsqueda de oportunidades adicionales (PIVOT, entre otras).
+En este contexto, la presente propuesta se orienta al mejoramiento del módulo de “Convocatorias Externas” de la `página oficial de investigaciones <https://investigacion.unal.edu.co/>`_, para que se convierta en una herramienta de consulta formal y metódica permanente, de estudiantes, investigadores, docentes y todos los actores del SIUN, a través de la cual conozcan las oportunidades de financiación, complementaria a las herramientas que la Universidad tiene disponibles para la búsqueda de oportunidades adicionales (PIVOT, entre otras).
 
 Contenidos
 ----------
