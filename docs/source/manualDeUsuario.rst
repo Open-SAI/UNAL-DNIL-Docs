@@ -6,8 +6,11 @@ MANUAL DE USUARIO FINAL
 Directorio de Convocatorias
 ---------------------------
 
-adsf adsf asdf asdf asdf adfasdñklfjadjskfhlakdfkjh a kajdsfl kjhasd lkjasdf lh adsf 
-adsf asdf asdf asdf adfasdñklfjadjskfhlakdfkjh a kajdsfl kjhasd lkjasdf lh
+Es la funcionalidad central del aplicativo, una vez instalado y configurado, se puede acceder a ella desde el enlace `CONVOCATORIAS <https://unal-dnil.herokuapp.com/><_blank>` de la `página oficial de investigaciones <https://investigacion.unal.edu.co/><_blank>`:
+
+.. image:: img/inicio.png
+   :scale: 50 %   
+   :alt: Inicio.
 
 Formulario Público de Envío
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
