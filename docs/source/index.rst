@@ -5,8 +5,8 @@ Módulo Web Directorio Convocatorias UNAL-DNIL
 `enlace <https://unal-dnil.herokuapp.com/>`_
 
 ñalkdfj ñadskfj
- ñaldskjf
- ñasdlkjf ñlasdjf ñalkdsjf adñlkfj 
+ñaldskjf
+ñasdlkjf ñlasdjf ñalkdsjf adñlkfj 
 
 .. note::
 
@@ -26,6 +26,5 @@ Contenidos
 
    usage
    api
-   otro0
-   otro1
-   otro2
+   manualDeUsuario
+   arquitectura
